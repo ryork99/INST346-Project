@@ -17,8 +17,15 @@
 ## Equipment needed for turning Raspberry Pi into a Network Scanner:
 * Raspberry Pi
 * At least an 8GB (up to 32GB) or Micro SD * Card if using a Raspberry Pi 2, 3 or B+
+* Small LCD Screen for the Rasberry Pi
+* Battery Pack (to power both Pi and Screen)
 * USB Keyboard and Mouse 
 * HDMI Cable
 * Ethernet Cord or Wifi dongle
 * Bluetooth Adapter (Only if not using a Pi 3 or Zero W)
+* A button to turn on the Pi an automatically start our software
+* A 3D printed case to hold all the components
+
+## Demo
+![](Images/1.png)
 
