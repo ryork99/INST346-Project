@@ -27,5 +27,8 @@
 * A 3D printed case to hold all the components
 
 ## Demo
-![](Images/1.png)
+![](INST346-Project/Images/1.png)
+![](INST346-Project/Images/2.png)
+![](INST346-Project/Images/3.png)
+
 
