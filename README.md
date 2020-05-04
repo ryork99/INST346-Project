@@ -17,7 +17,7 @@
 * It will check the co-channel interference and recommend the best channel to the user. * It will also generate a graphical display of signal levels over time for the user to monitor the Wi-Fi. We will also design a summary report format and make it easier to collect the results exported by the scanner.
 #
 ## Equipment needed for turning Raspberry Pi into a Network Scanner:
-#
+
 * Raspberry Pi
 * At least an 8GB (up to 32GB) or Micro SD * Card if using a Raspberry Pi 2, 3 or B+
 * Small LCD Screen for the Rasberry Pi
