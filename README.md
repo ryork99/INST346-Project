@@ -1,6 +1,7 @@
 # Monitoring Network via Pi - Raspberry Pi 
 
-## This project will be completed by May 2020
+> This project will be completed by May 2020
+#
 * This repository is intended to be used in completing a group project in INST 346: User-Centered Design.
 * The University of Maryland (UMD) has recently started using Eduroam as its main wireless network on campus. It is a secure, world-wide roaming internet access service that provides wireless connectivity when visiting participating institutions. 
 * However, UMD students, faculty/staff still experience connectivity problems as they complain that the network is spotty,  which prevents a successful connection. 
@@ -14,7 +15,9 @@
 * We will also need software elements in order to facilitate a useful way to display the information. We will create a program that will display all of the relevant diagnostic information of the Wi-Fi signal. 
 * Ideally, the Wi-Fi scanner will show channel, signal quality, MAC address, maximum download and upload speed, average download, upload speed, and encryption. 
 * It will check the co-channel interference and recommend the best channel to the user. * It will also generate a graphical display of signal levels over time for the user to monitor the Wi-Fi. We will also design a summary report format and make it easier to collect the results exported by the scanner.
+#
 ## Equipment needed for turning Raspberry Pi into a Network Scanner:
+#
 * Raspberry Pi
 * At least an 8GB (up to 32GB) or Micro SD * Card if using a Raspberry Pi 2, 3 or B+
 * Small LCD Screen for the Rasberry Pi
@@ -27,6 +30,10 @@
 * A 3D printed case to hold all the components
 
 ## Demo
-![](Images/1.png)
-![](INST346-Project/Images/2.png)
-![](INST346-Project/Images/3.png)
+#
+![](Images/RP1.png)
+#
+![](Images/RP3.png)
+#
+![](Images/RP2.png)
+#
