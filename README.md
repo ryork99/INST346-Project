@@ -28,9 +28,9 @@
 * Bluetooth Adapter (Only if not using a Pi 3 or Zero W)
 * A button to turn on the Pi an automatically start our software
 * A 3D printed case to hold all the components
-
-## Demo
 #
+## Demo
+
 ![](Images/RP1.png)
 #
 ![](Images/RP3.png)
