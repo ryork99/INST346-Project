@@ -30,5 +30,3 @@
 ![](Images/1.png)
 ![](INST346-Project/Images/2.png)
 ![](INST346-Project/Images/3.png)
-
-![]()
